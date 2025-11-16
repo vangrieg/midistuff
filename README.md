@@ -14,7 +14,7 @@ python3 -m pip install -r requirements.txt
 
 ### `tempo_to_sysex.py`
 
-Prompts for a tempo (10–255 BPM), converts it into a Roland-style SysEx message, and prints the full byte sequence including checksum.
+Prompts for a tempo (10–255 BPM), converts it into a Fractal Audio FM3 SysEx message, and prints the full byte sequence including checksum.
 
 Run it directly:
 
