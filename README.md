@@ -24,7 +24,7 @@ python3 tempo_to_sysex.py
 
 ### `extract_tempo_events.py`
 
-Prompts for the path to a MIDI file and emits each tempo change in the format `BPM:MM:SS.mmm`.
+Prompts for the path to a MIDI file and emits each tempo change in the Stage Traxx 4 format.
 
 Run it directly:
 
